@@ -1,0 +1,7 @@
+node_modules
+READMElectron.md
+dist
+out
+.DS_Store
+.eslintcache
+*.log*
